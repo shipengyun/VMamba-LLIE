@@ -4,6 +4,7 @@ Enhancing Low-Light Images with SNR-Guided and HVI Color-Assisted Triple-Branch 
 
 These codes are directly related to the current manuscript submitted to The Visual Computer:Enhancing Low-Light Images with SNR-Guided and HVI Color-Assisted Triple-Branch Network
 
+The model's test results can be downloaded from this link via [Baidu Cloud](https://pan.baidu.com/s/1XRS5WZgn9S40lPI5vugyWA?pwd=g1a5), with the password: "g1a5", applicable to LOLv1 and LOLv2-Synthetic SMID.
 <p align="center">
   <img width="800" src="img/framework.png">
 </p>
